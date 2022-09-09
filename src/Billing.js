@@ -38,7 +38,7 @@ function Billing(props) {
       </>
     )
   }
-  if (props.state === 5) {
+  if (props.state === 4) {
     return (
       <>
         {content}

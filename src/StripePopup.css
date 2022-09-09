@@ -1,7 +1,6 @@
 .stripe-popup {
   position: relative;
-  left: -700px;
-  top: 30px;
+  transform: translate(-110%, -65%);
   border-radius: 4px;
   padding: 5px;
 }

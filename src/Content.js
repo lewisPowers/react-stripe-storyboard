@@ -9,24 +9,26 @@ import './Content.css';
 function Content(props) {
 
   let state = props.state;
-
-  let popup;
   let content;
   if (state < 3) {
     content = <StripeConnect state={state} onClick={props.onClick} />
   }
-  if (state === 3 || state === 4) {
-    popup = state === 4 ? null : <StripePopup />
-    content = <BillingCurrency state={state} onClick={props.onClick} backClick={props.backClick} />
+  if (state === 3) {
+    content = (
+      <>
+        <BillingCurrency state={state} onClick={props.onClick} backClick={props.backClick} />
+        <StripePopup />
+      </>
+    )
   }
-  if (state === 5) {
+  if (state === 4) {
     content = (
       <>
         <ImportConfig state={state} onClick={props.onClick} advanceState={props.advanceState} />
       </>
     )
   }
-  if (state === 6) {
+  if (state === 5) {
     content = (
       <>
         <Connected state={state} onClick={props.onClick} />
@@ -43,11 +45,7 @@ function Content(props) {
           </div>
           <Steps state={state}/>
         </div>
-        <div className="internal-panel-gray">
-          {/* <StripeConnect state={state} onClick={props.onClick} /> */}
-          {content}
-          {popup}
-        </div>
+        {content}
       </div>
     </div>
   )

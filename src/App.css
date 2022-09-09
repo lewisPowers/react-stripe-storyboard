@@ -1,12 +1,11 @@
 :root,
 .App {
-  height: 1200px;
+  height: 1100px;
 }
 
 .App {
   background-color: #282c34;
   min-height: 100vh;
-  /* max-height: 3000px; */
   display: flex;
   flex-direction: column;
   gap: 2em;
@@ -20,8 +19,14 @@ button:hover {
 
 @media screen and (max-width: 1720px) {
   .stripe-popup {
-    left: 0px;
-    top: 15px;
+    scale: .7;
+    transform: translate(-130%, -70%);
+  }
+}
+
+@media screen and (max-width: 1535px) {
+  .stripe-popup {
+    transform: translateY(-128px);
   }
 }
 
@@ -55,6 +60,10 @@ button:hover {
   }
   .notebox-note {
     margin: 0 30px;
+  }
+  .stripe-popup {
+    transform: translate(0);
+    margin: 0 auto;
   }
 }
 
@@ -91,6 +100,11 @@ button:hover {
   }
 }
 @media screen and (max-width: 600px) {
+  :root,
+  html,
+  body {
+    width: 100vw;
+  }
   .Header,
   .stripe-connect {
     padding: 0;
@@ -115,5 +129,16 @@ button:hover {
   }
   .bold {
     line-height: 16px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .billing-menu,
+  .baseline,
+  .upgrade,
+  .internal-panel,
+  .internal-panel-gray,
+  .overview {
+    width: 375px !important;
   }
 }

@@ -2,13 +2,14 @@ import BackButton from './BackButton.js';
 import './Content.css';
 
 function BillingCurrency(props) {
+
   function CheckButtonComponent(props) {
     function enableBtn() {
       let checkbox = document.getElementsByClassName('checkbox')[0];
       let continueBtn = document.getElementsByClassName('continue-btn')[0];
-      console.log(continueBtn)
       if (checkbox.checked) {
         continueBtn.classList.remove('disabled');
+        document.getElementsByClassName('stripe-popup')[0].style.display = 'none';
         // continueBtn.disabled = false;
       }
       if (!checkbox.checked) {
@@ -32,7 +33,7 @@ function BillingCurrency(props) {
   }
   return (
     <>
-      <div className="internal-panel-gray" style={{height: '560px'}}>
+      <div className="internal-panel-gray">
         <div className="click-back-section">
           <BackButton state={props.state} backClick={props.backClick} />
         </div>

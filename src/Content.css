@@ -250,6 +250,9 @@ color: #000000;
 .checkbox {
   margin-right: 11px;
 }
+.checkbox:hover {
+  cursor: pointer;
+}
 
 .font-400 {
   font-weight: 400;
@@ -257,6 +260,7 @@ color: #000000;
 
 .disabled {
   opacity: .2;
+  pointer-events: none;
 }
 
 
