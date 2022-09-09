@@ -9,11 +9,11 @@ import './Content.css';
 function App() {
   const [state, setState] = React.useState(1);
 
-  if (state > 6) setState(1);
+  if (state > 5) setState(1);
 
-  if (state === 5) {
+  if (state === 4) {
     setTimeout(() => {
-      setState(6);
+      setState(5);
     }, 4000)
   }
   return (
