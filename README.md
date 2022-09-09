@@ -1,6 +1,6 @@
 # IncSub Project
 
-#### Thanks for checking out my work! Please feel free to take a look at this video I recorded for you to explain my process in a little bit of detail: https://www.loom.com/share/ba60b322ba004759bc411f6b97534197
+#### Thanks for checking out my work! Please feel free to take a look at this video I recorded that explains my process in a little bit of detail: https://www.loom.com/share/ba60b322ba004759bc411f6b97534197
 
 ### Here are answers to the questions that were asked:
 
