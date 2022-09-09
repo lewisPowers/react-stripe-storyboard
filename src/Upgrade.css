@@ -1,0 +1,90 @@
+button {
+  background: #286EF1;
+/* Button / Primary / Large */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12.5px 25px;
+width: 101px;
+height: 40px;
+background: #286EF1;
+border-radius: 4px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.26px;
+color: #FFFFFF;
+border: none;
+}
+
+.upgrade {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 101px;
+  width: 1050px;
+  border-radius: 10px;
+  background: #D5E3FD;
+  margin: 0 auto;
+}
+
+.upgrade > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon,
+.upgrade-btn {
+  padding: 0 30px;
+  /* width: 101px; */
+}
+
+.icon-div {
+  width: 101px;
+}
+
+/* .icon {
+  width: 61px;
+  height: 61px;
+  margin: 0 30px;
+
+  background: #286EF1;
+  border-radius: 40px;
+} */
+
+
+.upgrade-text {
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start !important;
+  flex-grow: 3;
+}
+
+.bold {
+
+  /* H3 */
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  /* or 167% */
+  color: #000000;
+}
+
+.megaphone-pic {
+  width: 61px;
+  height: 61px;
+}

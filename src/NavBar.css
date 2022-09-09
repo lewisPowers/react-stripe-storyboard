@@ -1,0 +1,15 @@
+.nav-bar {
+  position: absolute;
+  /* width: 1800px;
+  height: 60px;
+  left: 0px;
+  top: 0px; */
+  width: 100vw;
+  height: 60px;
+  background-color: #1A1A1A;
+
+}
+
+.nav-bar {
+  color: white;
+}

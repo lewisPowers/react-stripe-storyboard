@@ -1,38 +1,119 @@
+:root,
 .App {
-  text-align: center;
+  height: 1200px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
+.App {
   background-color: #282c34;
   min-height: 100vh;
+  /* max-height: 3000px; */
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  gap: 2em;
+  border-radius: 0px;
+  background: #F2F2F2;
 }
 
-.App-link {
-  color: #61dafb;
+button:hover {
+  cursor: pointer;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@media screen and (max-width: 1720px) {
+  .stripe-popup {
+    left: 0px;
+    top: 15px;
   }
-  to {
-    transform: rotate(360deg);
+}
+
+@media screen and (max-width: 1100px) {
+  .Header,
+  .stripe-connect {
+    width: 100vw;
+    padding: 0 30px;
+  }
+  .internal-panel-gray {
+    position: relative;
+  }
+  .billing-menu,
+  .baseline,
+  .upgrade,
+  .internal-panel,
+  .overview {
+    width: 700px;
+  }
+  .internal-panel-gray {
+    width: 660px;
+  }
+  .nav-bar {
+    width: 100vw;
+  }
+  .internal-panel-gray {
+    margin: 0 20px;
+  }
+  .click-back-section {
+    transform: translateX(0px);
+  }
+  .notebox-note {
+    margin: 0 30px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .Header,
+  .stripe-connect {
+    width: 100vw;
+    padding: 0 20px;
+  }
+  .billing-menu,
+  .baseline,
+  .upgrade,
+  .internal-panel,
+  .internal-panel-gray,
+  .overview {
+    width: 550px !important;
+  }
+  .nav-bar {
+    width: 100vw !important;
+  }
+  .internal-panel-gray {
+    margin: 0;
+    background-color: white;
+  }
+  .input-box {
+    background-color: #F9F9F9;
+  }
+  .upgrade {
+    font-size: smaller;
+    line-height: 1em;
+  }
+  .bold {
+    line-height: 0;
+  }
+}
+@media screen and (max-width: 600px) {
+  .Header,
+  .stripe-connect {
+    padding: 0;
+  }
+  .billing-menu,
+  .baseline,
+  .upgrade,
+  .internal-panel,
+  .internal-panel-gray,
+  .overview {
+    width: 450px !important;
+  }
+  .overview > div {
+    gap: .5em;
+    flex-wrap: wrap;
+  }
+  .nav-bar {
+    width: 100vw !important;
+  }
+  .internal-panel-gray {
+    margin: 0;
+  }
+  .bold {
+    line-height: 16px;
   }
 }
