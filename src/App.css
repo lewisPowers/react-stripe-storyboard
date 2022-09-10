@@ -139,6 +139,13 @@ button:hover {
   .internal-panel,
   .internal-panel-gray,
   .overview {
-    width: 375px !important;
+    width: 355px !important;
+  }
+  .input-box {
+    width: 337px;
+    justify-content: space-around;
+  }
+  .padding {
+    padding: 0;
   }
 }
