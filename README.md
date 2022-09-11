@@ -31,6 +31,6 @@
   - JSX syntax allows powerful template-style Javascript injection into HTML-like elements
   - Stateful components receive state updates from main 'App' component via props
 
-<img width="628" alt="Screen Shot 2022-09-10 at 10 44 08 PM" src="https://user-images.githubusercontent.com/52840741/189514260-957108e1-eb45-4001-bd9d-48637cc75b75.png">
+<img width="500" alt="Screen Shot 2022-09-10 at 10 44 08 PM" src="https://user-images.githubusercontent.com/52840741/189514260-957108e1-eb45-4001-bd9d-48637cc75b75.png">
 
 
