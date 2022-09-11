@@ -23,7 +23,7 @@
 
 - Viewport considerations: 5 views delivers an optimal experience to all users with any device screen size
 
-<img width="445" alt="Screen Shot 2022-09-10 at 10 20 29 PM" src="https://user-images.githubusercontent.com/52840741/189514063-83cc4d65-548e-41bd-a4d1-4f931403cdf2.png"> <img width="275" alt="Screen Shot 2022-09-10 at 10 20 43 PM" src="https://user-images.githubusercontent.com/52840741/189514065-10b79a5f-5ca8-45af-b082-4c1637052c89.png"> <img width="175" alt="Screen Shot 2022-09-10 at 10 52 34 PM" src="https://user-images.githubusercontent.com/52840741/189514466-04e218d2-cd28-4554-90c7-a05e2e7c17e7.png">
+<img width="500" alt="Screen Shot 2022-09-10 at 10 19 52 PM" src="https://user-images.githubusercontent.com/52840741/189514352-72cb48b4-0b10-407f-a671-5c9521313be2.png"> <img width="445" alt="Screen Shot 2022-09-10 at 10 20 29 PM" src="https://user-images.githubusercontent.com/52840741/189514063-83cc4d65-548e-41bd-a4d1-4f931403cdf2.png"> <img width="275" alt="Screen Shot 2022-09-10 at 10 20 43 PM" src="https://user-images.githubusercontent.com/52840741/189514065-10b79a5f-5ca8-45af-b082-4c1637052c89.png"> <img width="175" alt="Screen Shot 2022-09-10 at 10 52 34 PM" src="https://user-images.githubusercontent.com/52840741/189514466-04e218d2-cd28-4554-90c7-a05e2e7c17e7.png">
 
 - Component-based design
   - React library provides good environment for functional component structures
