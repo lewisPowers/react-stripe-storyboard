@@ -11,12 +11,10 @@
 
 - Viewport considerations: 5 views delivers an optimal experience to all users with any device screen size
 
-<img width="200" alt="Screen Shot 2022-09-10 at 10 20 29 PM" src="https://user-images.githubusercontent.com/52840741/189514063-83cc4d65-548e-41bd-a4d1-4f931403cdf2.png"><img width="200" alt="Screen Shot 2022-09-10 at 10 20 43 PM" src="https://user-images.githubusercontent.com/52840741/189514065-10b79a5f-5ca8-45af-b082-4c1637052c89.png">
+<img width="600" alt="Screen Shot 2022-09-10 at 10 20 29 PM" src="https://user-images.githubusercontent.com/52840741/189514063-83cc4d65-548e-41bd-a4d1-4f931403cdf2.png"> <img width="300" alt="Screen Shot 2022-09-10 at 10 20 43 PM" src="https://user-images.githubusercontent.com/52840741/189514065-10b79a5f-5ca8-45af-b082-4c1637052c89.png">
 
-<img width="457" alt="Screen Shot 2022-09-10 at 10 41 59 PM" src="https://user-images.githubusercontent.com/52840741/189514195-794e336b-0518-4d1d-83d6-3d8b996631b9.png"><img width="472" alt="Screen Shot 2022-09-10 at 10 40 52 PM" src="https://user-images.githubusercontent.com/52840741/189514198-69d93b11-b65e-46ec-be28-3b3016233a25.png">
 
-<img width="1300" alt="Screen Shot 2022-09-10 at 10 39 58 PM" src="https://user-images.githubusercontent.com/52840741/189514205-07a1c10a-0fab-4573-b4bc-226dcf8fce05.png">
-<img width="280" alt="Screen Shot 2022-09-10 at 10 33 38 PM" src="https://user-images.githubusercontent.com/52840741/189514210-a29980bf-7277-4d53-bfdc-73ae4264f867.png"><img width="280" alt="Screen Shot 2022-09-10 at 10 33 30 PM" src="https://user-images.githubusercontent.com/52840741/189514211-1f28b9cc-d732-4662-bf87-cf0a9cc69050.png">
+<img width="280" alt="Screen Shot 2022-09-10 at 10 33 38 PM" src="https://user-images.githubusercontent.com/52840741/189514210-a29980bf-7277-4d53-bfdc-73ae4264f867.png"> <img width="280" alt="Screen Shot 2022-09-10 at 10 33 30 PM" src="https://user-images.githubusercontent.com/52840741/189514211-1f28b9cc-d732-4662-bf87-cf0a9cc69050.png">
 
 
 
