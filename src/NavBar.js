@@ -2,8 +2,7 @@ import './NavBar.css'
 
 function NavBar(props) {
   return (
-    <div className="nav-bar" onClick={props.onClick}>
-    </div>
+    <div className="nav-bar" onClick={props.onClick}></div>
   )
 }
 
