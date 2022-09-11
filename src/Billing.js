@@ -26,7 +26,7 @@ function Billing(props) {
   if (props.state === 1) {
     return (
       <>
-      {content}
+        {content}
       </>
     )
   }
@@ -50,11 +50,10 @@ function Billing(props) {
     document.getElementsByClassName('billing-text')[0].style.display = 'none';
     return (
       <>
-       {content}
+        {content}
       </>
     )
   }
-
 }
 
 export default Billing;
