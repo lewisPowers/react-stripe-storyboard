@@ -1,4 +1,4 @@
-# React Stripe Storyboard
+# Stripe Storyboard
 
 ### A frontend stateful UI for Stripe account connection using React
 
