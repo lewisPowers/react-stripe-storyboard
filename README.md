@@ -15,11 +15,11 @@
 
 - Faux HTTP request simulates server wait animation using timer function
 
-<img width="280" alt="Screen Shot 2022-09-10 at 10 33 30 PM" src="https://user-images.githubusercontent.com/52840741/189514211-1f28b9cc-d732-4662-bf87-cf0a9cc69050.png">
+![stripe-animation-gif](https://user-images.githubusercontent.com/52840741/189543199-2f05bfdd-c917-466e-9c26-1ea4de5aad9e.gif)
 
 - Timing function advances state automatically to simulate server response
 
-<img width="280" alt="Screen Shot 2022-09-10 at 10 33 38 PM" src="https://user-images.githubusercontent.com/52840741/189514210-a29980bf-7277-4d53-bfdc-73ae4264f867.png"> 
+<img width="280" alt="Screen Shot 2022-09-10 at 10 33 30 PM" src="https://user-images.githubusercontent.com/52840741/189514211-1f28b9cc-d732-4662-bf87-cf0a9cc69050.png"> <img width="280" alt="Screen Shot 2022-09-10 at 10 33 38 PM" src="https://user-images.githubusercontent.com/52840741/189514210-a29980bf-7277-4d53-bfdc-73ae4264f867.png"> 
 
 - Viewport considerations: 5 views delivers an optimal experience to all users with any device screen size
 
