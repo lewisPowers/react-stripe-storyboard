@@ -7,8 +7,7 @@
 #### Responsive Wireframe Mockup 
 - Interactive buttons advance state
 
-<img width="300" alt="Screen Shot 2022-09-10 at 10 19 26 PM" src="https://user-images.githubusercontent.com/52840741/189514017-ca57591c-f8f9-458b-b37e-4b283b20453d.png"><img width="300" alt="Screen Shot 2022-09-10 at 10 20 19 PM" src="https://user-images.githubusercontent.com/52840741/189514054-5682017c-c9d0-4db8-b314-9ab17ab198cf.png">
-
+<img width="300" alt="Screen Shot 2022-09-10 at 10 19 15 PM" src="https://user-images.githubusercontent.com/52840741/189514343-c2af9dd2-af7c-4b04-a6db-8b08230ed7c0.png"> <img width="300" alt="Screen Shot 2022-09-10 at 10 19 26 PM" src="https://user-images.githubusercontent.com/52840741/189514347-ebea18cb-73fc-4344-a457-f95bb8bdd610.png"> <img width="300" alt="Screen Shot 2022-09-10 at 10 19 52 PM" src="https://user-images.githubusercontent.com/52840741/189514352-72cb48b4-0b10-407f-a671-5c9521313be2.png"> <img width="300" alt="Screen Shot 2022-09-10 at 10 21 45 PM" src="https://user-images.githubusercontent.com/52840741/189514357-a031dc1c-dd33-44bd-9e2a-ed6211c700d8.png"> <img width="300" alt="Screen Shot 2022-09-10 at 10 21 54 PM" src="https://user-images.githubusercontent.com/52840741/189514359-0873eacd-6f04-4df1-b021-fd9975437910.png"> <img width="300" alt="Screen Shot 2022-09-10 at 10 22 01 PM" src="https://user-images.githubusercontent.com/52840741/189514360-1b712ae5-95f6-440a-9c42-affe4ccd394a.png">
 
 - Viewport considerations: 5 views delivers an optimal experience to all users with any device screen size
 
