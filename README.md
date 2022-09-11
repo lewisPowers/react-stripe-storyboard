@@ -1,8 +1,8 @@
 # IncSub Project
 
-#### Thanks for checking out my work! Please feel free to take a look at this video I recorded for you, the viewer, to explain my process in a little bit of detail: 
+#### Thanks for checking out my work! Please feel free to take a look at this video I recorded that explains my process in a little bit of detail: https://www.loom.com/share/ba60b322ba004759bc411f6b97534197
 
-### Questions from incsub:
+### Here are answers to the questions that were asked:
 
 1. Have you ever worked on big projects?
 
