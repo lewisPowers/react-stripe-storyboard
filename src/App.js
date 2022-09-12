@@ -8,9 +8,7 @@ import './Content.css';
 
 function App() {
   const [state, setState] = React.useState(1);
-
   if (state > 5) setState(1);
-
   if (state === 4) {
     setTimeout(() => {
       setState(5);

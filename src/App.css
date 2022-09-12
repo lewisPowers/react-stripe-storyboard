@@ -81,6 +81,9 @@ button:hover {
   .overview {
     width: 550px !important;
   }
+  .upgrade {
+    line-height: 4em;
+  }
   .nav-bar {
     width: 100vw !important;
   }
@@ -96,7 +99,7 @@ button:hover {
     line-height: 1em;
   }
   .bold {
-    line-height: 0;
+    line-height: 1em;
   }
 }
 @media screen and (max-width: 600px) {
@@ -127,8 +130,8 @@ button:hover {
   .internal-panel-gray {
     margin: 0;
   }
-  .bold {
-    line-height: 16px;
+  .upgrade-text >:nth-child(2) {
+    display: none;
   }
 }
 
