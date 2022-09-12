@@ -1,4 +1,4 @@
-# Connect Stripe Account 
+# ___Connect Stripe Account___
 
 ### A frontend stateful UI rendition of Stripe account connection using React
 
@@ -15,6 +15,7 @@
 
 - Faux HTTP request simulates server wait animation using timer function
 - Timing function advances state automatically to simulate server response
+- Custom-created animation using CSS
 
 ![stripe-animation-gif](https://user-images.githubusercontent.com/52840741/189543199-2f05bfdd-c917-466e-9c26-1ea4de5aad9e.gif)
 
@@ -32,4 +33,10 @@
 
 <img width="500" alt="Screen Shot 2022-09-10 at 10 44 08 PM" src="https://user-images.githubusercontent.com/52840741/189514260-957108e1-eb45-4001-bd9d-48637cc75b75.png">
 
+# ___Tech Used___
+
+- Custom CSS & JSX
+- React functional components & useState Hook 
+- CRA handles config, bundling, & transpiling for ease of use
+- Default npm modules
 
