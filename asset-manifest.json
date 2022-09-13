@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.c10eaed1.css",
-    "main.js": "/react-gh-pages/static/js/main.d8b91453.js",
-    "static/media/megaphone.png": "/react-gh-pages/static/media/megaphone.454bb5237585d24652ba.png",
-    "static/media/stripe-logo.png": "/react-gh-pages/static/media/stripe-logo.b7b771d18ee4ec99b1e7.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.c10eaed1.css.map": "/react-gh-pages/static/css/main.c10eaed1.css.map",
-    "main.d8b91453.js.map": "/react-gh-pages/static/js/main.d8b91453.js.map"
+    "main.css": "/react-stripe-storyboard/static/css/main.c10eaed1.css",
+    "main.js": "/react-stripe-storyboard/static/js/main.9f47b53a.js",
+    "static/media/megaphone.png": "/react-stripe-storyboard/static/media/megaphone.454bb5237585d24652ba.png",
+    "static/media/stripe-logo.png": "/react-stripe-storyboard/static/media/stripe-logo.b7b771d18ee4ec99b1e7.png",
+    "index.html": "/react-stripe-storyboard/index.html",
+    "main.c10eaed1.css.map": "/react-stripe-storyboard/static/css/main.c10eaed1.css.map",
+    "main.9f47b53a.js.map": "/react-stripe-storyboard/static/js/main.9f47b53a.js.map"
   },
   "entrypoints": [
     "static/css/main.c10eaed1.css",
-    "static/js/main.d8b91453.js"
+    "static/js/main.9f47b53a.js"
   ]
 }
